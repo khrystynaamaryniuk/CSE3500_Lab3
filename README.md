@@ -3,4 +3,3 @@ To compile:
 g++ nodeTests.cpp node.cpp
 To run:
 ./a.out
-
